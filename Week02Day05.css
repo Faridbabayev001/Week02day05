@@ -1,0 +1,410 @@
+/*YA ALLAH*/
+body{
+  margin: 0px;
+  padding: 0px;
+}
+/*Birinci seklin baslanqici*/
+/*HALCYON DAYS -in baslanqisi*/
+.head{
+  width: 100%;
+  height: 800px;
+  background: url(img/hero-bg.jpg);
+}
+.menu img{
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  background: transparent;
+  width: 40px;
+  height: 40px;
+}
+.first_text{
+  width: 690px;
+  height: 150px;
+  position: absolute;
+  top: 200px;
+  left: 300px;
+  display: inline-block;
+  text-align: center;
+  font-size: 120%;
+  font-family: 'Monospace', sans-serif;
+}
+.first_text span{
+  color: gray;
+}
+/*HALCYON DAYS -in sonu*/
+/*BACK TO THE ARTICLE-nin baslanqici*/
+.btta{
+  width: 220px;
+  height: 60px;
+  padding: 0px;
+  text-align: center;
+  border-radius: 10px;
+  background: rgba(61, 201, 179, 0.8);
+  position: absolute;
+  top: 400px;
+  left: 510px;
+  font-size: 120%;
+  border-bottom: 3px solid gray;
+}
+.btta a:hover{
+  background: rgba(61, 201, 179, 1);
+}
+.btta a{
+  text-decoration: none;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 21px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+/*BACK TO THE ARTICLE-nin sonu*/
+/*Birinci seklin sonu*/
+/*Ikinci seklin baslanqici*/
+.head1{
+  width: 100%;
+  height: 400px;
+  background: #FBFCFC;
+}
+/*acpt A CREATIVE PORTFOLIO TEMPLATE sozlerinin bas herfidi :)*/
+.acpt{
+  width: 900px;
+  margin: 0 auto;
+}
+.acpt p:first-child{
+  margin-left: 300px;
+  margin-top: 90px;
+  display:inline-block;
+}
+.acpt img{
+  margin-left: 310px;
+}
+.acpt p:last-child{
+  text-align: center;
+  color: #979A9A;
+}
+.acpt a{
+  text-decoration: none;
+  color: black;
+}
+/*Ikinci seklin sonu*/
+/*Ucuncu seklin baslanqici*/
+.head2{
+  width: 100%;
+  height: 600px;
+}
+/*body divi head divinin icindeki qutudur*/
+.body{
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+}
+/*body_p divi LOVE WHAT YOU DO, AND YOU'LL DO IT WELL sozun qutusunu tesvir edir*/
+.body_p{
+  margin: 0 auto;
+  width: 500px;
+  height: 100px;
+  margin-top: 50px;
+}
+.body p{
+  text-align: center;
+}
+.body img{
+  margin-left: 120px;
+}
+.comp,.teq,.hearth{
+  width: 250px;
+  height: 397px;
+  float: left;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.comp img,.teq img,.hearth img{
+  margin-left: 35px;
+  width: 70%;
+}
+.comp p:nth-child(3),.teq p:nth-child(3),.hearth p:nth-child(3){
+  margin-top: 80px;
+  width: 50px;
+  height: 5px;
+  background: rgba(61, 201, 179, 1);
+  margin: 0 auto;
+}
+/*Ucuncu seklin sonu*/
+/*Dorduncu seklin baslanqici*/
+.head{
+  width: 100%;
+  height: 600px;
+}
+.left,.right{
+  width: 50%;
+  height: 600px;
+  float: left;
+  background: #F7F9F9;
+}
+.left{
+  background: url(img/iphone-bg.png);
+}
+.right_p{
+  width: 400px;
+  height: 80px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.lorem1,.lorem2,.lorem3{
+  text-align: center;
+  margin: 0 auto;
+  width: 400px;
+  height: 50px;
+  margin-top: 30px;
+}
+/*Dorduncu seklin sonu*/
+/*Besinci seklin baslanqici*/
+.head4{
+  width: 100%;
+  height: 300px;
+  background: url(img/plants-bg.jpg);
+  margin-top: 602px;
+}
+.body1{
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+.down img{
+  width: 50px;
+  height: 50px;
+  background: rgba(61, 201, 179, 0.8);
+  border-radius: 50%;
+  color: white;
+  margin-left: 600px;
+  margin-top: 60px;
+}
+.down img:hover{
+  background: rgba(61, 201, 179, 1);
+}
+/*Besinci seklin sonu*/
+/*Altinci seklin baslanqici*/
+.head5{
+  width: 100%;
+  height: 600px;
+}
+.sekil1,.sekil2,.sekil3{
+  width: 340px;
+  height: 400px;
+  float: left;
+  margin-top: 120px;
+  margin-left: 60px;
+}
+.sekil1 img,.sekil2 img,.sekil3 img{
+  width: 340px;
+  height: 200px;
+}
+.sekil1 p,.sekil2 p,.sekil3 p{
+  text-align: center;
+}
+.sekil1 p:nth-child(3),.sekil2 p:nth-child(3),.sekil3 p:nth-child(3){
+  margin-top: 50px;
+  width: 50px;
+  height: 5px;
+  background: rgba(61, 201, 179, 1);
+  margin: 0 auto;
+}
+/*Altinci seklin sonu*/
+/*Yeddinci seklin baslangici*/
+.head6_1{
+  width: 100%;
+  height: 150px;
+  background: black;
+}
+.head6_1 p{
+  width: 230px;
+  height: 30px;
+  border: 1px solid white;
+  text-decoration: none;
+  margin-top: 35px;
+  color: white;
+  margin-top: 45px;
+  margin-left: 550px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+
+}
+/*Yeddinci seklin sonu*/
+/*8-ci seklin baslanqici*/
+.head7{
+  width: 100%;
+  height: 650px;
+  display: inline-block;
+}
+.yazi{
+  width: 340px;
+  height: 100px;
+  margin-left: 450px;
+  margin-top: 70px;
+}
+.sekil4,.sekil5,.sekil6{
+  width: 260px;
+  height: 400px;
+  float: left;
+  margin-top: 90px;
+  margin-left: 120px;
+}
+.sekil4 img,.sekil5 img,.sekil6 img{
+  width: 260px;
+  height: 200px;
+}
+.sekil4 p,.sekil5 p,.sekil6 p{
+  text-align: center;
+}
+.sekil4 p:nth-child(3),.sekil5 p:nth-child(3),.sekil6 p:nth-child(3){
+  margin-top: 50px;
+  width: 50px;
+  height: 5px;
+  background: rgba(61, 201, 179, 1);
+  margin: 0 auto;
+}
+/*8-ci seklin sonu*/
+/*9-cu seklin baslanqici*/
+
+.head8{
+  height: 444px;
+	background-image: url(img/keyboard-bg.jpg);
+	background-size: 100% 299px;
+	text-align: center;
+}
+	.head8 i{
+    color:white;
+		font-size: 30px;
+		margin-top: 139px;
+
+	}
+	.head8 i:last-child{
+    width: 55px;
+    height: 50px;
+    background-color: #3dc9b3;
+    opacity: .9;
+    border-radius: 100%;
+    margin-top: 100px;
+    padding-top: 5px;
+	}
+	.head8 h3{
+    color:white;
+    font-family: arimo;
+    font-weight: normal;
+    margin-top: 24px;
+    display: inline-block;
+	}
+	.head8 form input:first-child{
+    width: 342px;
+		height: 59px;
+		border: 1px solid white;
+		background-color: transparent;
+		margin-top: 42px;
+		color:white;
+	}
+	.head8 form input:last-child{
+    width: 85px;
+		height: 64px;
+		background-color: #478e87;
+		border: 1px solid #42ac9e;
+		margin-top: 42px;
+		margin-left: 3px;
+		color:white;
+		font-family: arimo;
+	}
+/*9-cu seklin sonu*/
+/*10-cu seklin baslanqici*/
+.contact{
+	height: 637px;
+	background-color: #f3f5f8;
+	text-align: center;
+}
+	.contactitems{
+		width: 100%;
+		height: 201px;
+		position: relative;
+		top: 190px;
+	}
+		.contactitems div{
+			width: 350px;
+			height: 201px;
+			background-color: white;
+			box-shadow: 0px 2px 0px lightgrey;
+			display: inline-block;
+			float: left;
+		}
+		.contactitems div:first-child{
+			margin-left: 128px;
+		}
+			.contactitems div i{
+				font-size: 25px;
+				margin-top: 37px;
+			}
+			.contactitems div h3{
+				color:#3dc9b3;
+				margin-top: 21px;
+				font-family: arimo;
+			}
+			.contactitems div h5{
+				color:#8c9398;
+				margin-top: 21px;
+				font-family: Euphemia;
+			}
+		.contactitems div:nth-child(2){
+			margin-left: 30px;
+		}
+		.contactitems div:last-child{
+			margin-left: 30px;
+		}
+		.socialmedia{
+			width: 100%;
+			height: 40px;
+			position: relative;
+			top: 260px;
+		}
+			.socialmedia div{
+				width: 40px;
+				height: 40px;
+				display: inline-block;
+				color:white;
+				background-color: #242830;
+				border-radius: 100%;
+				font-size: 20px;
+				text-align: center;
+				float: left;
+			}
+			.socialmedia div:first-child{
+				margin-left: 609px;
+			}
+			.socialmedia div{
+				margin-left: 14px;
+			}
+				.socialmedia div i{
+					margin-top: 10px;
+				}
+.footer{
+	height: 123px;
+  background: black;
+}
+	.footer p{
+		color:#99a2a9;
+		float: left;
+		font-size: 17px;
+		font-family: arimo;
+		margin-top: 61px;
+		margin-left: 153px;
+	}
+	.footer p:last-child{
+		float: right;
+		margin-right: 119px;
+		color:white;
+	}
+	.footer em, span{
+		color:#99a2a9;
+	}
+	.footer p:first-child span{
+		color:white;
+	}
